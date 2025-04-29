@@ -4956,7 +4956,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "c100u:CAP_GRM31_1206_MUR-M"
 			(at 33.9852 74.93 0)
 			(effects
 				(font
