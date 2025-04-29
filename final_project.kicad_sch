@@ -4124,7 +4124,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "05eed347-1c86-45db-9610-dfa7450acd66")
-		(property "Reference" "C4_NR"
+		(property "Reference" "C4_NR1"
 			(at 121.666 94.234 90)
 			(effects
 				(font
@@ -4176,7 +4176,7 @@
 		(instances
 			(project ""
 				(path "/69077819-e109-4340-8082-9c11186228b7"
-					(reference "C4_NR")
+					(reference "C4_NR1")
 					(unit 1)
 				)
 			)
@@ -4467,7 +4467,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "17c2f63f-cac2-4a46-b096-99b85a6c50b1")
-		(property "Reference" "C3_Out"
+		(property "Reference" "C3_Out1"
 			(at 165.1 82.804 90)
 			(effects
 				(font
@@ -4519,7 +4519,7 @@
 		(instances
 			(project ""
 				(path "/69077819-e109-4340-8082-9c11186228b7"
-					(reference "C3_Out")
+					(reference "C3_Out1")
 					(unit 1)
 				)
 			)
@@ -4735,7 +4735,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "318945d1-3bb9-4dfd-be3b-5ec949d9ca7e")
-		(property "Reference" "C2_In"
+		(property "Reference" "C2_In1"
 			(at 91.948 91.44 0)
 			(effects
 				(font
@@ -4789,7 +4789,7 @@
 		(instances
 			(project ""
 				(path "/69077819-e109-4340-8082-9c11186228b7"
-					(reference "C2_In")
+					(reference "C2_In1")
 					(unit 1)
 				)
 			)
@@ -5764,7 +5764,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66f24b5f-dfb1-4433-8282-29c4d2bc7b90")
-		(property "Reference" "R2_Pullup"
+		(property "Reference" "R2_Pullup1"
 			(at 173.99 121.9199 0)
 			(effects
 				(font
@@ -5818,7 +5818,7 @@
 		(instances
 			(project ""
 				(path "/69077819-e109-4340-8082-9c11186228b7"
-					(reference "R2_Pullup")
+					(reference "R2_Pullup1")
 					(unit 1)
 				)
 			)
@@ -5901,7 +5901,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c852dc1-5297-4a12-a224-839b62d92d73")
-		(property "Reference" "R1_Pullup"
+		(property "Reference" "R1_Pullup1"
 			(at 224.79 121.9199 0)
 			(effects
 				(font
@@ -5955,7 +5955,7 @@
 		(instances
 			(project ""
 				(path "/69077819-e109-4340-8082-9c11186228b7"
-					(reference "R1_Pullup")
+					(reference "R1_Pullup1")
 					(unit 1)
 				)
 			)
@@ -6455,7 +6455,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e83fc3ad-4f6d-498a-b425-ecea8840b86d")
-		(property "Reference" "U3_5V_to_1.8V_Voltage_Regulator"
+		(property "Reference" "U3_5V_to_1.8V_Voltage_Regulator1"
 			(at 113.538 81.534 0)
 			(effects
 				(font
@@ -6525,7 +6525,7 @@
 		(instances
 			(project ""
 				(path "/69077819-e109-4340-8082-9c11186228b7"
-					(reference "U3_5V_to_1.8V_Voltage_Regulator")
+					(reference "U3_5V_to_1.8V_Voltage_Regulator1")
 					(unit 1)
 				)
 			)
