@@ -4140,7 +4140,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C10nF:G-155_MUR"
 			(at 126.0348 90.17 0)
 			(effects
 				(font
