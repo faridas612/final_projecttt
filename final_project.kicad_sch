@@ -5250,7 +5250,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ECS_160_20_5PX_TR:XTAL_ECS-160-20-5PX-TR"
 			(at 116.84 127 0)
 			(effects
 				(font
