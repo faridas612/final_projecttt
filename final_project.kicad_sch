@@ -4210,7 +4210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1000uF:CAP_YX_10X16_RUB"
 			(at 80.9752 93.98 0)
 			(effects
 				(font
