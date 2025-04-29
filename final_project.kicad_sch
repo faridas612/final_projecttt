@@ -4277,7 +4277,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical"
 			(at 115.57 154.94 0)
 			(effects
 				(font
@@ -4684,7 +4684,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor100uH:IND_TAIYO_BRL3225_TAY"
 			(at 72.39 86.36 0)
 			(effects
 				(font
