@@ -4201,7 +4201,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1000u"
 			(at 83.82 91.4399 0)
 			(effects
 				(font
@@ -4483,7 +4483,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C1u:CAP_CL10_SAM-M"
 			(at 168.91 87.9348 0)
 			(effects
 				(font
@@ -4753,7 +4753,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C1u:CAP_CL10_SAM-M"
 			(at 92.4052 97.79 0)
 			(effects
 				(font
@@ -4947,7 +4947,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100u"
 			(at 36.83 72.3899 0)
 			(effects
 				(font
@@ -5180,7 +5180,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "GRM022D80G104ME15L:CAPC0402X22N"
 			(at 188.9252 128.27 0)
 			(effects
 				(font
@@ -5712,7 +5712,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R147:YAG_MF25_YAG"
 			(at 136.652 101.6 90)
 			(effects
 				(font
@@ -5782,7 +5782,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R10k:YAG_MF25_YAG"
 			(at 169.672 123.19 90)
 			(effects
 				(font
@@ -5919,7 +5919,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R10k:YAG_MF25_YAG"
 			(at 220.472 123.19 90)
 			(effects
 				(font
@@ -5988,7 +5988,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "R76k8:YAG_MF25_YAG"
 			(at 140.208 93.98 90)
 			(effects
 				(font
@@ -6187,7 +6187,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:CAPC17595_87N_KEM-M"
 			(at 134.62 122.2248 0)
 			(effects
 				(font
@@ -6622,7 +6622,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:CAPC17595_87N_KEM-M"
 			(at 127 133.0452 0)
 			(effects
 				(font
